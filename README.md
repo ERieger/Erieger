@@ -1,16 +1,17 @@
-### Hi there 👋
+# ERieger
+I am a begging software engineer looking to see self development in a wide range of new techhnologies.
 
-<!--
-**ERieger/Erieger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects
+* __Colourocity__ - _A simple puzzle based platforming game made in p5js._
+* __Weather Application__ - _A customizable weather application._
+* __Portfolio__ - _A website to display my past work._
 
-Here are some ideas to get you started:
+## Languages
+* Html, CSS
+* Javascript
+* Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+* P5.js
+* Unity (C#)
+* Blender
