@@ -14,12 +14,9 @@ I am a begging software engineer looking to see self development in a wide range
 * Javascript
 * Python
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERieger)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERieger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Currently Learning
 * P5.js
 * Unity (C#)
 * Blender
-
-## Key Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ERieger&repo=portfolio)](https://github.com/ERieger/portfolio)
