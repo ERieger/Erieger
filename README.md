@@ -25,8 +25,8 @@ I specialise in web development, but am also learning applications for game crea
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
