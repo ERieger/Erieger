@@ -1,5 +1,7 @@
 # ERieger
-I am a begging software engineer looking to see self development in a wide range of new techhnologies.
+> I am a begging software engineer looking to see self development in a wide range of new techhnologies.
+
+I specialise in web development, but am also learning applications for game creation such as `Unity` and `Blender`.
 
 ## Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ERieger)](https://github.com/anuraghazra/github-readme-stats)
@@ -27,6 +29,17 @@ I am a begging software engineer looking to see self development in a wide range
   <img src="https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+## Ambience Studios
+
+I am currently a member of ambience studios, a group of young developers looking to learn new skills and create interesting projects.
+
+##### Find us on
+<p>
+  <a  href="https://github.com/Ambience-Studios">
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
+   </a>
 </p>
 
 ### Top Languages
