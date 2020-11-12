@@ -1,5 +1,5 @@
 # ERieger
-> I am a begging software engineer looking to see self development in a wide range of new techhnologies.
+> I am a beginning software engineer looking to see self development in a wide range of new techhnologies.
 
 I specialise in web development, but am also learning applications for game creation such as `Unity` and `Blender`.
 
