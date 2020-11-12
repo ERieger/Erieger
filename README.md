@@ -9,14 +9,25 @@ I am a begging software engineer looking to see self development in a wide range
 * __Weather Application__ - _A customizable weather application._
 * __Portfolio__ - _A website to display my past work._
 
-## Languages
-* Html, CSS
-* Javascript
-* Python
+## Specialities
+<p>
+   <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERieger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Currently Learning
-* P5.js
-* Unity (C#)
-* Blender
