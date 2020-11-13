@@ -1,5 +1,5 @@
 # ERieger
-> I am a beginning software engineer looking to see self development in a wide range of new techhnologies.
+> I am a new software engineer looking to seek self development in a wide range of new techhnologies.
 
 I specialise in web development, but am also learning applications for game creation such as `Unity` and `Blender`.
 
@@ -8,7 +8,7 @@ I specialise in web development, but am also learning applications for game crea
 
 ## Current Projects
 * __Colourocity__ - _A simple puzzle based platforming game made in p5js._
-* __Weather Application__ - _A customizable weather application._
+* __Weather Application__ - _A simple weather application._
 * __Portfolio__ - _A website to display my past work._
 
 ## Specialities
