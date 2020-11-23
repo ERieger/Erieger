@@ -1,6 +1,4 @@
 # ERieger
-> I am a new software engineer looking to seek self development in a wide range of new techhnologies.
-
 I specialise in web development, but am also learning applications for game creation such as `Unity` and `Blender`.
 
 ## Stats
@@ -40,6 +38,3 @@ I am a member of ambience studios, a group of young developers looking to learn 
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
    </a>
 </p>
-
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERieger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
