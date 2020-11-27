@@ -27,6 +27,7 @@ I specialise in web development, but am also learning applications for game crea
   <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
 ## Ambience Studios
