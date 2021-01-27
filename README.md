@@ -5,9 +5,8 @@ I specialise in web development, but am also learning applications for game crea
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ERieger)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Current Projects
-* __Colourocity__ - _A simple puzzle based platforming game made in p5js._
-* __Weather Application__ - _A simple weather application._
 * __Portfolio__ - _A website to display my past work._
+* __Ambience.css__ - _A lightweight, modern and responsive css framework_
 
 ## Specialities
 <p>
