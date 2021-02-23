@@ -7,6 +7,7 @@ I specialise in web development, but am also learning applications for game crea
 ## Current Projects
 * __Portfolio__ - _A website to display my past work._
 * __Ambience.css__ - _A lightweight, modern and responsive css framework_
+* __Family.app__ - _A simple organisation application targeted at families._
 
 ## Specialities
 <p>
