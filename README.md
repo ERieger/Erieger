@@ -12,7 +12,6 @@ I specialise in web development, but am also learning applications for game crea
 ## Specialities
 <p>
    <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
 </p>
 
 <p>
