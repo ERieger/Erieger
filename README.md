@@ -1,5 +1,5 @@
 # ERieger
-I specialise in web development, but am also learning applications for game creation such as `Unity` and `Blender`.
+I enjoy developing simple website and web applications. I have also been experimenting with python on the raspberry pi.
 
 ## Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ERieger)](https://github.com/anuraghazra/github-readme-stats)
@@ -7,24 +7,13 @@ I specialise in web development, but am also learning applications for game crea
 ## Current Projects
 * __Portfolio__ - _A website to display my past work._
 * __Ambience.css__ - _A lightweight, modern and responsive css framework_
-* __Family.app__ - _A simple organisation application targeted at families._
 
 ## Specialities
-<p>
-   <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-</p>
-
 <p>
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
