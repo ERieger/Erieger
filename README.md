@@ -7,7 +7,9 @@ I enjoy developing simple website and web applications. I have also been experim
 ## Current Projects
 * __Portfolio__ - _A website to display my past work._
 * __Ambience.css__ - _A lightweight, modern and responsive css framework_
-* __ActionFW__ - A personal project for testing new features and systems seperately from ambience.css.
+* __ActionFW__ - _A personal project for testing new features and systems seperately from ambience.css._
+* __Open Tello TX__ - _A custom program for controlling DJI tello drones with a controller._
+* __Pi Station__ - _A custom GUI for controlling my raspberry pi based groundstation._
 
 ## Specialities
 <p>
